@@ -19,6 +19,9 @@
     "email": "daniel.hreben@gmail.com"
   },
   "license": "CC-BY-4.0",
+  "dependencies" : {
+    "lru-cache": "4.0.x"
+  },
   "peerDependencies": {
     "sequelize-transparent-cache": "^1.0.0 || ^1.1.0"
   },
